@@ -1,24 +1,3 @@
 # Security Research
 
-A collection of notes, references, and small experiments related to
-cybersecurity and information security.
 
-## Topics
-
-- Network Security
-- Threat Intelligence
-- Digital Forensics
-- Web Security
-- OSINT
-- Security Automation
-
-## Research Notes
-
-This repository contains some of my learning notes and research material
-collected over time.
-
-Some projects and additional documentation are maintained separately.
-
-For more information, refer to the documentation:
-
-[FOR MORE DETAILS VISIT MY WEBSITE](https://ethan-walker.vercel.app/)
